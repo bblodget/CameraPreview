@@ -1,0 +1,12 @@
+This is an Android SDK project that displays preview images
+from the camera.  The initial source came from the 
+Andorid API Demos.
+
+http://developer.android.com/resources/samples/ApiDemos/src/com/example/android/apis/graphics/CameraPreview.html
+
+This project targets Android API Level 10 (Android 2.3.3).  This level
+gives us access to Camera.CameraInfo which allows us to select between
+front and back cameras.
+
+-Brandon
+
